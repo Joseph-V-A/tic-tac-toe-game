@@ -38,13 +38,8 @@ To play the game, simply run the executable and follow the prompts. Enter number
 ├── README.md
 ```
 
-## 📸 Screenshots
-
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to the Tic-Tac-Toe Game Project, please fork the repository and submit a pull request with your changes.
-
-## 📝 License
-The Tic-Tac-Toe Game Project is licensed under the MIT License.
 
 ## 📬 Contact
 For questions or feedback, please contact us at [insert contact email or link].
